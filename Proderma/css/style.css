@@ -576,14 +576,14 @@ span.count-cart {
 }
 /*sliderhome*/
 .slide--1 {
-  background-image: url(/Proderma/images/banner-proderma.png);
+  background-image: url(Proderma/images/banner-proderma.png);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
   height: 382px;
 }
 .slide--2 {
-  background-image: url(/Proderma/images/banner-proderma.png);
+  background-image: url(/Proderma-Version/Proderma/images/banner-proderma.png);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -1105,7 +1105,7 @@ a.nav.next {
   transition: 0.7s ease;
 }
 .aba-whatsphone-icone {
-  background: url(http://encantosdopero.com.br/wp-content/uploads/2016/02/whatsapp-icon.png) no-repeat; /* whatsapp icon */
+  background: url(Proderma/whatsapp-icon.png) no-repeat; /* whatsapp icon */
   width: 280px;
   background-size: 70px;
   background-position-y: -7px;
